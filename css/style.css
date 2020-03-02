@@ -726,7 +726,7 @@ button:focus {
 /* Start CTA Area css
 ============================================================================================ */
 .cta-area {
-  background: url(../img/cta-bg.png) center no-repeat;
+  background: url(../img/Mount\ Everest.jpg) center no-repeat;
   background-size: cover;
   color: #000000;
   position: relative;
@@ -738,7 +738,7 @@ button:focus {
       margin-bottom: 0px; } }
   .cta-area h1 {
     font-size: 48px;
-    color: #000000;
+    color: #dd0e0e;
     margin-bottom: 20px; }
     @media (max-width: 1199px) {
       .cta-area h1 {
