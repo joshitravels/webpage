@@ -268,7 +268,7 @@ button:focus {
       .header_area .navbar .nav .nav-item .nav-link {
         font: 600 12px/80px "Roboto", sans-serif;
         text-transform: uppercase;
-        color: #ffffff;
+        color: #ee1c25;
         padding: 0px;
         display: inline-block; }
         .header_area .navbar .nav .nav-item .nav-link:after {
@@ -347,9 +347,9 @@ button:focus {
       .header_area .navbar .nav .nav-item:last-child {
         margin-right: 0px; }
     .header_area .navbar .primary-btn {
-      border: 1px solid #ffffff;
+      border: 1px solid #ee1c25;
       padding: 7px 28px;
-      color: #ffffff;
+      color: #ee1c25;
       letter-spacing: 1px;
       font-weight: 500;
       margin-top: 20px; }
@@ -365,7 +365,7 @@ button:focus {
       font-size: 12px;
       line-height: 60px;
       display: inline-block;
-      color: #ffffff;
+      color: #ee1c25;
       padding-left: 30px;
       cursor: pointer; }
       @media (max-width: 991px) {
