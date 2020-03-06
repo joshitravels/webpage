@@ -2058,12 +2058,19 @@ button:focus {
   padding: 50px 0;
   border-top: 1px dotted #eee; }
 
+  .section-top-border-first-section {
+    padding: 150px 0 0 0;
+    border-top: 1px dotted #eee; }
+
 .switch-wrap {
   margin-bottom: 10px; }
 
 .switch-wrap p {
   margin: 0; }
 
+  .image-fluid-first{
+
+  }
 /*---------- End Elements Page -------------*/
 .sample-text-area {
   padding: 100px 0 70px 0; }
@@ -2736,9 +2743,9 @@ h6 {
   background: #4cd3e3; }
 
 .primary-checkbox {
-  width: 16px;
-  height: 16px;
-  border-radius: 3px;
+  width: 36px;
+  height: 36px;
+  border-radius: 6px;
   background: #fff;
   position: relative;
   cursor: pointer; }
@@ -2761,7 +2768,7 @@ h6 {
   bottom: 0;
   width: 100%;
   height: 100%;
-  border-radius: 3px;
+  border-radius: 6px;
   cursor: pointer;
   border: 1px solid #f1f1f1; }
 
@@ -3242,5 +3249,3 @@ h6 {
         color: #fdb813; }
 
 /*---------------------------------------------------- */
-
-/*# sourceMappingURL=style.css.map */
