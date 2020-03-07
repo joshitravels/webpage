@@ -773,7 +773,7 @@ button:focus {
 
 .single-package {
   position: relative;
-  padding: 20px 20px 40px;
+  padding: 10px 10px 40px;
   border: 1px solid #eeeeee;
   margin-bottom: 30px;
   -webkit-transition: all 0.3s ease 0s;
@@ -781,7 +781,7 @@ button:focus {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s; }
   .single-package .meta-top .fa {
-    margin-right: 5px; }
+    margin-right: 1px; }
   .single-package .thumb {
     overflow: hidden;
     margin-bottom: 30px; }
