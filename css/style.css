@@ -3433,3 +3433,8 @@ to {
 -webkit-animation-name: slideInRight;
 animation-name: slideInRight;
 }
+
+.front-page-slider-1 {
+  background-image: url("../img/Mount\ Everest.jpg");
+ background-color: #cccccc;
+}
