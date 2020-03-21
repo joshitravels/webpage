@@ -3432,6 +3432,8 @@ to {
 animation-name: slideInRight;
 }
 
+
+
 .front-page-slider-1 {
   background-image: url("../img/Mount\ Everest.jpg");
  background-color: #cccccc;
@@ -3779,14 +3781,7 @@ animation-name: slideInRight;
 
 .theme-footer,
 .theme-footer__visitNepal ul>li {
-    position: relative !important
-}
-
-
-
-
-
-
+    position: relative !impo
 
 .container {
   width: 100%;
@@ -3795,7 +3790,7 @@ animation-name: slideInRight;
   margin-right: auto;
   margin-left: auto
 }
-=======
+
 
 /* Timeline CSS */
 
@@ -3953,4 +3948,5 @@ time {
   }
 }
 /* Timeline CSS */
+
 
