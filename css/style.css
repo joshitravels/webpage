@@ -3435,6 +3435,16 @@ animation-name: slideInRight;
 }
 
 .front-page-slider-1 {
-  background-image: url("../img/Mount\ Everest.jpg");
+  background-image: url("../img/slider/Namche-Bazaar-Night.jpg");
+ background-color: #cccccc;
+}
+
+.front-page-slider-2 {
+  background-image: url("../img/slider/Namche-Bazaar-Night.jpg");
+ background-color: #cccccc;
+}
+
+.front-page-slider-3 {
+  background-image: url("../img/slider/Namche-Bazaar-Night.jpg");
  background-color: #cccccc;
 }
