@@ -3781,7 +3781,8 @@ animation-name: slideInRight;
 
 .theme-footer,
 .theme-footer__visitNepal ul>li {
-    position: relative !impo
+    position: relative !important
+}
 
 .container {
   width: 100%;
